@@ -1,5 +1,13 @@
 # Project-4
-# Contributors: Iman Malih, Hayden Jackson, A'Nayah Mccollough, John Olton, Ryan Woyce, Qonesha Hunter
+
+
+## Contributors: 
+     Iman Malih, 
+     Hayden Jackson, 
+     A'Nayah Mccollough, 
+     John Olton, 
+     Ryan Woyce, 
+     Qonesha Hunter
  
 **Project Overview**
 --------------------------------
