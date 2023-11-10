@@ -1,5 +1,6 @@
 # Project-4
-
+# Contributors: Iman Malih, Hayden Jackson, A'Nayah Mccollough, John Olton, Ryan Woyce, Qonesha Hunter
+ 
 **Project Overview**
 --------------------------------
 The company wants to automate the loan eligibility process based on customer detail provided while filling the online application form. 
@@ -41,6 +42,8 @@ Data Prepartion and Analysis
 
  Summary Analysis
  ------------------------------
+
+
 
 
 
