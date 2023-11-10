@@ -2,8 +2,8 @@
 
 **Project Overview**
 --------------------------------
-
-Construct a Machine Learning model to predict a person's eligibilty of loan approval based on some information about that person. 
+The company wants to automate the loan eligibility process based on customer detail provided while filling the online application form. 
+Construct a Machine Learning model to predict a person's eligibility of loan approval based on some information about that person. 
 
 
 Datasets to be Used:
