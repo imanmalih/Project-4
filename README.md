@@ -78,7 +78,7 @@ As for the machine learning algorithim, we tested a few models suche as Logisiti
 
 
 
-  
+  Post running our prediction models, we generated classification reports to further support that the Logistic Regression Model is the best model to use overall. Along with an accuracy score of 80%, it also gave the highest precision. 
 
   
 
