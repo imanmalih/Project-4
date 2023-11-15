@@ -68,17 +68,18 @@ As for the marrital status, graduate level, and self employment status, it is mo
 ![image](https://github.com/imanmalih/Project-4/assets/133404805/6b000423-f94b-405b-8655-be10e57dc152)
 
 
+<img width="995" alt="Screenshot 2023-11-11 at 5 13 02 PM" src="https://github.com/imanmalih/Project-4/assets/128860080/e50ad631-29ff-47a7-b9a1-b6f9c9a43c81">
+
+From our correlation matrix (pictured above) we saw that the Credit History has maximum correlation with Loan Status. 
+As expected, this tells us that the Loan Status heavily depends on the Credit History. 
+
+
+
 Conclusion
  ------------------------------
 
-As for the machine learning algorithim, we tested a few models suche as Logisitic Regression, Support Vector Machine, Decision Tree, and K-Nearest Neighbors and it suggests that the Logistic Regression algorithm gives us the maximum accuracy of 79%. Compared to the other 3 Machine Learning Classification Algorithms, the logistic regression model fits best overall. From our correlation matrix (pictured below) we saw that the Credit History has maximum correlation with Loan Status. As expected, this tells us that the Loan Status heavily depends on the Credit History. 
+As for the machine learning algorithim, we tested a few models such as Logisitic Regression, Support Vector Machine, Decision Tree, and K-Nearest Neighbors and it suggests that the Logistic Regression algorithm gives us the maximum accuracy of 79%. Compared to the other 3 Machine Learning Classification Algorithms, the logistic regression model fits best overall. 
 
-
-<img width="995" alt="Screenshot 2023-11-11 at 5 13 02 PM" src="https://github.com/imanmalih/Project-4/assets/128860080/e50ad631-29ff-47a7-b9a1-b6f9c9a43c81">
-
-
-
-  Post running our prediction models, we generated classification reports to further support that the Logistic Regression Model is the best model to use overall. Along with an accuracy score of 80%, it also gave the highest precision. 
 
   
 
