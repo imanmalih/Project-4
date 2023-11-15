@@ -31,21 +31,19 @@ Data Prepartion and Analysis
           Explore the data, understand the columns and identify key features for analysis.
 
 
- Split the Data into Training and Testing Sets (Already provided from kaggle CSVs)
+ Split the Data into Training and Testing Sets 
 
          Create the labels set from the loan_status column, and then create the features DataFrame from the remaining columns. 
 
 
- Create a Logistic Regression Model with the Original Data
+ Create Prediction Models with the split data
 
-         Fit a logistic regression model by using the training data
-
-         Evaluate the model's performance by generating a confusion matrix.
+         Evaluate each model's performance by generating a confusion matrix.
 
 
- Visualizations (Tableau)
+ Visualizations (Python)
 
-       Use Tableau to generate visualizations. 
+      
 
 
  Summary Analysis
