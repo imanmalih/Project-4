@@ -70,7 +70,8 @@ As for the marrital status, graduate level, and self employment status, it is mo
 ![image](https://github.com/imanmalih/Project-4/assets/133404805/6b000423-f94b-405b-8655-be10e57dc152)
 
 
-
+Conclusion
+ ------------------------------
 
 As for the machine learning algorithim, we tested a few models suche as Logisitic Regression, Support Vector Machine, Decision Tree, and K-Nearest Neighbors and it suggests that the Logistic Regression algorithm gives us the maximum accuracy of 79%. Compared to the other 3 Machine Learning Classification Algorithms, the logistic regression model fits best. We saw that the Credit History has maximum correlation with Loan Status. As expected, this tells us that the Loan Status heavily depends on the Credit History. 
 
