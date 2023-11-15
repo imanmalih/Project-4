@@ -52,7 +52,8 @@ Data Prepartion and Analysis
  ------------------------------
 Our final analysis for our Housing Loan, gives us insight on what demographic can be more directly targeted. Starting with the gender that is more likely to be approved for a loan is the male gender. 
 
-<img width="665" alt="Screenshot 2023-11-11 at 5 12 13 PM" src="https://github.com/imanmalih/Project-4/assets/128860080/32b6bf26-d063-40fa-8bfb-1b84523c28da">
+![image](https://github.com/imanmalih/Project-4/assets/133404805/68de3a63-004a-49b7-925b-e18bb103bd54)
+
 
 
 
@@ -60,15 +61,18 @@ As for the marrital status, graduate level, and self employment status, it is mo
 
 
 
-<img width="613" alt="Screenshot 2023-11-11 at 5 12 23 PM" src="https://github.com/imanmalih/Project-4/assets/128860080/57b9acdb-d3c1-439c-95ef-c9c104ccef89">
-
-<img width="633" alt="Screenshot 2023-11-11 at 5 12 31 PM" src="https://github.com/imanmalih/Project-4/assets/128860080/32f0e7bc-e85f-4f1b-9e96-76849f7aad5b">
-
-<img width="665" alt="Screenshot 2023-11-11 at 5 12 36 PM" src="https://github.com/imanmalih/Project-4/assets/128860080/c36a5e22-e831-417b-b213-233e8777d3c0">
+![image](https://github.com/imanmalih/Project-4/assets/133404805/c9fd65e7-ca3c-4ac8-840e-ebae222d7f28)
 
 
+![image](https://github.com/imanmalih/Project-4/assets/133404805/d7323010-47cf-40c8-8b94-156e968a6f9f)
 
-As for the machine learning algorithim, we tested a few models and it suggests that the Logistic Regression algorithm gives us the maximum accuracy of 79%. Compared to the other 3 Machine Learning Classification Algorithms, the linear regression model fits best. We saw that the Credit History has maximum correlation with Loan Status. As expected, this tells us that the Loan Status heavily depends on the Credit History. 
+
+![image](https://github.com/imanmalih/Project-4/assets/133404805/6b000423-f94b-405b-8655-be10e57dc152)
+
+
+
+
+As for the machine learning algorithim, we tested a few models and it suggests that the Logistic Regression algorithm gives us the maximum accuracy of 79%. Compared to the other 3 Machine Learning Classification Algorithms, the logistic regression model fits best. We saw that the Credit History has maximum correlation with Loan Status. As expected, this tells us that the Loan Status heavily depends on the Credit History. 
 
 
 <img width="995" alt="Screenshot 2023-11-11 at 5 13 02 PM" src="https://github.com/imanmalih/Project-4/assets/128860080/e50ad631-29ff-47a7-b9a1-b6f9c9a43c81">
