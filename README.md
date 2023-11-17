@@ -83,7 +83,7 @@ As for the machine learning algorithim, we tested a few models such as Logisitic
 
   
 ## Roles:
-     Iman & An'Nayah - Cleaning/Coding/Machine Learning/ Visuals
+     Iman & A'Nayah - Cleaning/Coding/Machine Learning/ Visuals
      John - PowerPoint
      Ryan & Hayden - Presentation 
 
